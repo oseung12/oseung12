@@ -3,6 +3,13 @@
 <br>
 <div align=center>
 
+ O_seungji
+  
+  
+ Tech Stack
+  
+<img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=oseung12&show_icons=true&theme=prussian" width=49.0% />
 </a>
