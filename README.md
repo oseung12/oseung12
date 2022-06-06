@@ -23,7 +23,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=oseung12&show_icons=true&theme=prussian" width=49.0% />
 </a>
-<a href="https://github.com/oseung12/">
+<a href="https://github.com/oseung12?tab=repositories)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseung12&langs_count=6&layout=compact&theme=prussian" width=41.0% />
 </a>
 
