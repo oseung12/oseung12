@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oseung12&show_icons=true&theme=prussian" width=49.0% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseung12&layout=compact&theme=prussian" width=41.0% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseung12&langs_count=10&layout=compact&theme=prussian" width=41.0% />(https://github.com/oseung12/oseung12)
 </a>
 
 </div>
