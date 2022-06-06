@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseung12&langs_count=6&layout=compact&theme=prussian" width=41.0% />
 </a>
 
+<a href="https://github.com/oseung12">
+  <img align="center" style="height:180px width=41.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseung12&layout=compact&theme=nord&hide_border=true" /></a> 
+
 </div>
 
 
