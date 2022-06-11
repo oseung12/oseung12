@@ -3,7 +3,6 @@
 
 <h3 align="center">🌈 ABOUT ME 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/o_seung12/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_seung12/"/></a>&nbsp
   <a href="mailto:osungg@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=osungg@gmail.com"/></a>
 </p>
   
